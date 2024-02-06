@@ -22,8 +22,6 @@ export class ApiMockService {
   }
 
   getCategoriesMeta(): Observable<CategoryMeta[]> {
-    return this.http.get<CategoryMeta[]>(
-      'https://minio.ag.mos.ru/ag-main/data/poll-categories.json'
-    );
+    return this.http.get<CategoryMeta[]>('https://minio.ag.mos.ru/ag-main/data/poll-categories.json');
   }
 }

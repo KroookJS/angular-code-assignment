@@ -1,0 +1,20 @@
+<ng-container *ngIf="status === 'loading'; else loadedPollis">
+  <app-loading-image-component
+    [srcImg]="
+      'https://avatars.mds.yandex.net/i?id=4313744429c0d3f1d62c3a930df9c318b27df51f-5859076-images-thumbs&n=13'
+    "></app-loading-image-component>
+</ng-container>
+
+<ng-template #loadedPollis>
+  <div class="vote-grid">
+    <div class="vote-grid__cards">
+      <ng-container *ngFor="let item of dataFilterCombine$ | async">
+        <app-poll-item [pollCart]="item" class="vote-grid__card"> </app-poll-item>
+      </ng-container>
+    </div>
+  </div>
+</ng-template>
+
+<ng-container *ngIf="dataFilterCombine$.value.length === 0 && status === 'loaded'">
+  <app-work-in-progress style="display: flex; align-items: center; justify-content: center"></app-work-in-progress>
+</ng-container>

@@ -7,8 +7,7 @@ export const pollsList: Poll[] = [
     points: 0,
     voters_count: 139517,
     category_id: 75,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/10_faktov_Kolomenskoe-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/10_faktov_Kolomenskoe-1176x559.png',
   },
   {
     id: 15363,
@@ -16,8 +15,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 53773,
     category_id: 133,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/msk_restavraciya_1312x656-1176x559.jpg',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/msk_restavraciya_1312x656-1176x559.jpg',
   },
   {
     id: 15355,
@@ -25,8 +23,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 88951,
     category_id: 75,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/Putevodnaja_zvezda_2023-1176x559.jpg',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/Putevodnaja_zvezda_2023-1176x559.jpg',
   },
   {
     id: 15354,
@@ -34,8 +31,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 88113,
     category_id: 75,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/Putevodnaja_zvezda_2023-1176x559.jpg',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/Putevodnaja_zvezda_2023-1176x559.jpg',
   },
   {
     id: 15353,
@@ -43,8 +39,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 91635,
     category_id: 75,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/Putevodnaja_zvezda_2023-1176x559.jpg',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/Putevodnaja_zvezda_2023-1176x559.jpg',
   },
   {
     id: 15275,
@@ -52,8 +47,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 176623,
     category_id: 75,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_usadby-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_usadby-1176x559.png',
   },
   {
     id: 15292,
@@ -61,18 +55,15 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 177651,
     category_id: 16,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/VDNH-1176x559.jpg',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/VDNH-1176x559.jpg',
   },
   {
     id: 15242,
-    title:
-      'Спецпроект «Мой район: как развивается Москва»: городской транспорт',
+    title: 'Спецпроект «Мой район: как развивается Москва»: городской транспорт',
     points: 20,
     voters_count: 183691,
     category_id: 90,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_transport_newupd-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_transport_newupd-1176x559.png',
   },
   {
     id: 15229,
@@ -80,8 +71,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 191326,
     category_id: 16,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_blag_new-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_blag_new-1176x559.png',
   },
   {
     id: 15225,
@@ -89,8 +79,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 198040,
     category_id: 78,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_soc_new1-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_soc_new1-1176x559.png',
   },
   {
     id: 15215,
@@ -98,18 +87,15 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 210707,
     category_id: 16,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_kultura_i_turizm_new-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_kultura_i_turizm_new-1176x559.png',
   },
   {
     id: 15214,
-    title:
-      'Спецпроект «Мой район: как развивается Москва»: городское строительство',
+    title: 'Спецпроект «Мой район: как развивается Москва»: городское строительство',
     points: 20,
     voters_count: 243513,
     category_id: 55,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/stroit_900x643_new-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/stroit_900x643_new-1176x559.png',
   },
   {
     id: 15243,
@@ -117,8 +103,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 191730,
     category_id: 92,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_priroda-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_priroda-1176x559.png',
   },
   {
     id: 15240,
@@ -126,8 +111,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 196043,
     category_id: 75,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_progulki-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_progulki-1176x559.png',
   },
   {
     id: 15238,
@@ -135,8 +119,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 197139,
     category_id: 75,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_romantika-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_romantika-1176x559.png',
   },
   {
     id: 15227,
@@ -144,8 +127,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 198922,
     category_id: 75,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_ucheba-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_ucheba-1176x559.png',
   },
   {
     id: 15226,
@@ -153,8 +135,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 198770,
     category_id: 99,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_osensport_new-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_osensport_new-1176x559.png',
   },
   {
     id: 15261,
@@ -162,8 +143,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 200164,
     category_id: 75,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_alpaka23-1176x559.jpg',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_alpaka23-1176x559.jpg',
   },
   {
     id: 15223,
@@ -171,8 +151,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 220973,
     category_id: 75,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/muf_kak_bilo_900x643-1176x559.jpg',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/muf_kak_bilo_900x643-1176x559.jpg',
   },
   {
     id: 15203,
@@ -180,8 +159,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 261971,
     category_id: 16,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/sobaki_900x643-1176x559.jpg',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/sobaki_900x643-1176x559.jpg',
   },
   {
     id: 15262,
@@ -189,8 +167,7 @@ export const pollsList: Poll[] = [
     points: 0,
     voters_count: 157773,
     category_id: 90,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/MKA-1176x559.jpg',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/MKA-1176x559.jpg',
   },
   {
     id: 15196,
@@ -198,18 +175,15 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 256952,
     category_id: 92,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/ekotropy_900x643-1176x559.jpg',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/ekotropy_900x643-1176x559.jpg',
   },
   {
     id: 15195,
-    title:
-      '«Проектируем район»: современные общественные пространства для москвичей',
+    title: '«Проектируем район»: современные общественные пространства для москвичей',
     points: 20,
     voters_count: 260733,
     category_id: 16,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_proekt_new-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_proekt_new-1176x559.png',
   },
   {
     id: 15234,
@@ -217,8 +191,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 201327,
     category_id: 87,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_buslugi-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_buslugi-1176x559.png',
   },
   {
     id: 15233,
@@ -226,8 +199,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 192840,
     category_id: 87,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_obschepit-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_obschepit-1176x559.png',
   },
   {
     id: 15232,
@@ -235,8 +207,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 178920,
     category_id: 87,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/900h643_TC-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/900h643_TC-1176x559.png',
   },
   {
     id: 15231,
@@ -244,8 +215,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 158197,
     category_id: 87,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/900h643_set-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/900h643_set-1176x559.png',
   },
   {
     id: 15230,
@@ -253,8 +223,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 202160,
     category_id: 87,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_neset-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/900x643_neset-1176x559.png',
   },
   {
     id: 15151,
@@ -262,8 +231,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 264734,
     category_id: 75,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/kvadrat_metr_900x643-1176x559.jpg',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/kvadrat_metr_900x643-1176x559.jpg',
   },
   {
     id: 15191,
@@ -271,8 +239,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 189651,
     category_id: 75,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/vydry-1176x559.jpg',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/vydry-1176x559.jpg',
   },
   {
     id: 15148,
@@ -280,8 +247,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 191258,
     category_id: 75,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/Letnie_progulki_900x643-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/Letnie_progulki_900x643-1176x559.png',
   },
   {
     id: 15145,
@@ -289,8 +255,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 188842,
     category_id: 75,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/Leto_ekskursii_900x643-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/Leto_ekskursii_900x643-1176x559.png',
   },
   {
     id: 15144,
@@ -298,8 +263,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 193412,
     category_id: 75,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/sport_900x643-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/sport_900x643-1176x559.png',
   },
   {
     id: 15141,
@@ -307,8 +271,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 195220,
     category_id: 75,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/Leto_s_detmi-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/Leto_s_detmi-1176x559.png',
   },
   {
     id: 15199,
@@ -316,8 +279,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 121416,
     category_id: 90,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/dubler_900x643-1176x559.jpg',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/dubler_900x643-1176x559.jpg',
   },
   {
     id: 15170,
@@ -325,8 +287,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 160445,
     category_id: 103,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/blagotvor_900x643-1176x559.jpeg',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/blagotvor_900x643-1176x559.jpeg',
   },
   {
     id: 15154,
@@ -334,8 +295,7 @@ export const pollsList: Poll[] = [
     points: 0,
     voters_count: 157343,
     category_id: 90,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/karshering_900x643-1176x559.jpg',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/karshering_900x643-1176x559.jpg',
   },
   {
     id: 15152,
@@ -343,8 +303,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 130910,
     category_id: 75,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/den_goroda_900x643-1176x559.jpeg',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/den_goroda_900x643-1176x559.jpeg',
   },
   {
     id: 15143,
@@ -352,8 +311,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 143031,
     category_id: 91,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/okruga_vuzy_900x643-1176x559.JPG',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/okruga_vuzy_900x643-1176x559.JPG',
   },
   {
     id: 15150,
@@ -361,8 +319,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 195044,
     category_id: 75,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/Leto_u_vody-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/Leto_u_vody-1176x559.png',
   },
   {
     id: 15146,
@@ -370,8 +327,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 125696,
     category_id: 20,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/molodezh_msk_900x643-1176x559.jpg',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/molodezh_msk_900x643-1176x559.jpg',
   },
   {
     id: 15133,
@@ -379,8 +335,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 150350,
     category_id: 75,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/obschee_razvitie-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/obschee_razvitie-1176x559.png',
   },
   {
     id: 15132,
@@ -388,8 +343,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 147138,
     category_id: 75,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/literature_900x643-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/literature_900x643-1176x559.png',
   },
   {
     id: 15131,
@@ -397,8 +351,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 145925,
     category_id: 75,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/video_i_fotografiya-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/video_i_fotografiya-1176x559.png',
   },
   {
     id: 15130,
@@ -406,8 +359,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 145379,
     category_id: 75,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/teatr_900x643-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/teatr_900x643-1176x559.png',
   },
   {
     id: 15129,
@@ -424,8 +376,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 149123,
     category_id: 75,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/music_900x643-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/music_900x643-1176x559.png',
   },
   {
     id: 15147,
@@ -433,8 +384,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 125121,
     category_id: 75,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/kuskovo_900x643-1176x559.jpg',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/kuskovo_900x643-1176x559.jpg',
   },
   {
     id: 15122,
@@ -442,8 +392,7 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 158167,
     category_id: 55,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/LRP_280x200_6-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/LRP_280x200_6-1176x559.png',
   },
   {
     id: 15121,
@@ -451,7 +400,6 @@ export const pollsList: Poll[] = [
     points: 20,
     voters_count: 154982,
     category_id: 55,
-    image:
-      'https://service.ag.mos.ru/cms-static/images/thumbnails/LRP_280x200_5-1176x559.png',
+    image: 'https://service.ag.mos.ru/cms-static/images/thumbnails/LRP_280x200_5-1176x559.png',
   },
 ];

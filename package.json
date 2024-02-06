@@ -6,7 +6,14 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "p:fix": "prettier --config ./.prettierrc --write \"src/{app,environment}/**/*{.ts,.html,.cscc}\"",
+    "p:verify": "prettier --config ./.prettierrc --list-different \"src/{app,environment}/**/*{.ts,.html,.cscc}\""
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run p:fix"
+    }
   },
   "private": true,
   "dependencies": {
@@ -27,12 +34,15 @@
     "@angular/cli": "^17.0.0",
     "@angular/compiler-cli": "^17.0.0",
     "@types/jasmine": "~5.1.0",
+    "eslint-config-prettier": "^9.0.0",
+    "husky": "^8.0.3",
     "jasmine-core": "~5.1.0",
     "karma": "~6.4.0",
     "karma-chrome-launcher": "~3.2.0",
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
+    "prettier": "^2.8.8",
     "typescript": "~5.2.2"
   }
 }

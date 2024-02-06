@@ -1,0 +1,52 @@
+.vote-grid {
+  padding: 24px;
+
+  &__filter {
+    margin-bottom: 16px;
+  }
+
+  &__cards {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-items: center;
+    gap: 16px;
+  }
+
+  &__card {
+    background: white;
+    padding: 10px;
+    border-radius: 18px;
+    box-shadow: 10px 10px 38px #c9d9ca;
+    transition: 0.2s ease-in-out;
+  }
+
+  &__card:hover {
+    transform: scale(1.06);
+  }
+}
+
+@media (max-width: 1440px) {
+  .vote-grid {
+    &__cards {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+}
+
+@media (max-width: 1024px) {
+  .vote-grid {
+    &__cards {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .vote-grid {
+    padding: 12px;
+
+    &__cards {
+      grid-template-columns: repeat(1, 1fr);
+    }
+  }
+}

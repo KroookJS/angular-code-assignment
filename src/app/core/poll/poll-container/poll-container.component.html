@@ -1,0 +1,6 @@
+<app-categoty-filter
+  [filters]="categories$ | async"
+  [vlaue]="{ name: 'Все категории', id: null }"
+  (valueSelected)="handleFilteEvent($event)"></app-categoty-filter>
+
+<app-poll-list [dataFilterCombine$]="dataFilterCombine$" [status]="status"> </app-poll-list>

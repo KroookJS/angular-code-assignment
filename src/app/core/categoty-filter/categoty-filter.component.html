@@ -1,0 +1,22 @@
+<div class="categories-filter" [class.categories-filter--opened]="isOpened">
+  <div class="categories-filter__field" (click)="toggleFilterSelect()">
+    <span class="categories-filter__field-placeholder" *ngIf="!selectedFilter">Категории голосования</span>
+    <span class="categories-filter__field-placeholder" *ngIf="selectedFilter">{{ selectedFilter.name }}</span>
+  </div>
+  <ul class="categories-filter__options-list" *ngIf="isOpened">
+    <li class="categories-filter__options-item">
+      <div class="categories-filter__option" (click)="onSelectToggle(vlaue)">
+        {{ vlaue.name }}
+      </div>
+    </li>
+    <li class="categories-filter__options-item">
+      <div
+        class="categories-filter__option"
+        [class.categories-filter__option--selected]="selectedFilter === value"
+        *ngFor="let value of filters"
+        (click)="onSelectToggle(value)">
+        {{ value.name }}
+      </div>
+    </li>
+  </ul>
+</div>
